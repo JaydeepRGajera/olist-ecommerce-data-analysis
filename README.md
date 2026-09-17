@@ -6,6 +6,29 @@
 
 ![Olist E-commerce Dashboard](power-bi/dashboard_preview.png)
 
+## Project Structure
+
+- `sql/` — PostgreSQL / SQL analysis
+- `power-bi/` — Power BI dashboard and preview
+- `docs/` — Business insights report
+- `data/` — Dataset files (not included in the repository)
+
+## Dataset
+
+**Brazilian E-Commerce Public Dataset by Olist**
+
+The dataset contains information on orders, customers, products, sellers, payments, reviews, and delivery operations.
+
+## Analysis Areas
+
+1. Financial / Commercial Performance
+2. Product Performance & Demand
+3. Seller Performance
+4. Customer Retention
+5. Order & Delivery Operations
+6. Cancellations / Unsuccessful Orders
+7. Customer Satisfaction
+
 Analysis of Brazilian e-commerce performance using the Olist dataset, PostgreSQL, SQL, and Power BI.
 
 The project examines:
