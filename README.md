@@ -30,6 +30,15 @@ The project examines:
 - Cancellations / Unsuccessful Orders
 - Customer Satisfaction
 
+## Key Findings
+
+- Total revenue was approximately **R$15.37M** across the analyzed orders.
+- **96,478 orders** had a delivered status.
+- The overall **cancellation rate was 0.62%**.
+- **Repeat customers represented 3.0%** of the customer base.
+- Late deliveries were associated with **lower average review scores** than on-time / early deliveries.
+- Revenue and sales volume varied substantially across product categories, products, and sellers.
+
 ## Project Files
 
 - [SQL Analysis](sql/olist_analysis.sql)
