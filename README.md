@@ -9,7 +9,7 @@
 ## Project Structure
 
 - `sql/` — PostgreSQL / SQL analysis
-- `power-bi/` — Power BI dashboard and preview
+- `power-bi/olist_bi` — Power BI dashboard and preview
 - `docs/` — Business insights report
 - `data/` — Dataset files (not included in the repository)
 
