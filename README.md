@@ -9,7 +9,7 @@
 ## Project Structure
 
 - `sql/` — PostgreSQL / SQL analysis
-- `power-bi/olist_bi` — Power BI dashboard and preview
+- `power-bi/olist_bi.pbix` — Power BI dashboard and preview
 - `docs/` — Business insights report
 - `data/` — Dataset files (not included in the repository)
 
@@ -33,7 +33,7 @@ The project examines:
 ## Project Files
 
 - [SQL Analysis](sql/olist_analysis.sql)
-- [Power BI Dashboard](power-bi/olist-ecommerce-data-analysis.pbix)
+- [Power BI Dashboard](power-bi/olist_bi.pbix)
 - [Business Insights Report](docs/Olist_Ecommerce_Business_Insights.pdf)
 - [Dashboard Preview](power-bi/dashboard_preview.png)
 
