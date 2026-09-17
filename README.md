@@ -30,6 +30,13 @@ The project examines:
 - Cancellations / Unsuccessful Orders
 - Customer Satisfaction
 
+## Project Files
+
+- [SQL Analysis](sql/olist_analysis.sql)
+- [Power BI Dashboard](power-bi/olist-ecommerce-data-analysis.pbix)
+- [Business Insights Report](docs/Olist_Ecommerce_Business_Insights.pdf)
+- [Dashboard Preview](power-bi/dashboard_preview.png)
+
 ## Tools
 
 - PostgreSQL
