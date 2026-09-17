@@ -21,16 +21,6 @@ The dataset contains information on orders, customers, products, sellers, paymen
 
 ## Analysis Areas
 
-1. Financial / Commercial Performance
-2. Product Performance & Demand
-3. Seller Performance
-4. Customer Retention
-5. Order & Delivery Operations
-6. Cancellations / Unsuccessful Orders
-7. Customer Satisfaction
-
-Analysis of Brazilian e-commerce performance using the Olist dataset, PostgreSQL, SQL, and Power BI.
-
 The project examines:
 - Financial / Commercial Performance
 - Product Performance & Demand
