@@ -2,6 +2,10 @@
 
 ## Project Overview
 
+## Dashboard Preview
+
+![Olist E-commerce Dashboard](power-bi/dashboard_preview.png)
+
 Analysis of Brazilian e-commerce performance using the Olist dataset, PostgreSQL, SQL, and Power BI.
 
 The project examines:
