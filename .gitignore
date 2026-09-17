@@ -1,0 +1,11 @@
+# Power BI temporary/system files
+*.pbi
+*.tmp
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# PostgreSQL backups
+*.backup
+*.dump
